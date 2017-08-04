@@ -33,3 +33,7 @@ Wikipedia:
 icann
 
 -------------------------------------
+
+Reason the crawl ended: Crawler memory full (This is good, as it means the maximum number of websites were crawled)
+
+Seed page: [https://en.wikipedia.org/wiki/List_of_most_popular_websites](https://en.wikipedia.org/wiki/List_of_most_popular_websites)
