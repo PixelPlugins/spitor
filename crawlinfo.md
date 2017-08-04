@@ -1,7 +1,7 @@
 # Crawl Info
 This file contains info about each crawl.
 ----------------------------------------
-## webcrawl-8-4-2017 Info
+## webcrawl-8-4-2017 (Latest) Info
 This crawl obeys robots.txt.
 
 -------------------------------------
