@@ -11,4 +11,26 @@ webcrawl-month-day-year.txt (or for samples, webcrawl-month-day-year-sample.txt.
 
 If you want to get the latest crawl, just use webcrawl-latest.txt. (latest does not work for samples)
 
-As you can see, we don't have much here. More crawls are comming soon!
+Crawls are lists of websites. Each website is on a new line. If you want the website, its content, and its title, then you should use
+webcrawlcontent.txt.
+
+It is always on the latest crawl. Each entry takes up three lines. The first line is the website url, the second is its title, and the third is its content. 
+Here is a 3 entry example.
+
+https://www.google.com
+
+Google
+
+<body>html content here...</body>
+
+https://www.bing.com/
+
+Bing
+
+<body>html content here...</body>
+
+http://www.msn.com/
+
+MSN.com - Hotmail, Outlook, Skype, Bing, Latest News, Photos & Videos
+
+<body>html content here...</body>
