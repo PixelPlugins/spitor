@@ -21,16 +21,16 @@ https://www.google.com
 
 Google
 
-<body>html content here...</body>
+html content here...
 
 https://www.bing.com/
 
 Bing
 
-<body>html content here...</body>
+html content here...
 
 http://www.msn.com/
 
 MSN.com - Hotmail, Outlook, Skype, Bing, Latest News, Photos & Videos
 
-<body>html content here...</body>
+html content here...
